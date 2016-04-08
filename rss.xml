@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Samuel Noonan]]></title>
+        <description><![CDATA[Samuel Noonan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Apr 2016 14:25:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c38aac51-ca0d-4d31-af86-eff7d199d82a.jpg">]]></description>
+            <link>https://www.facebook.com/Samuelnoonancom/?fref=ts</link>
+            <guid isPermaLink="false">19fedb0a-ac06-4a1c-a09b-adf58e7d459b</guid>
+            <pubDate>Fri, 08 Apr 2016 14:24:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
