@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'After a difficult round 1, and a very wet second round, Sam was happy to come away from the Queensland Supercross Championship with 3rd Overall and two 3rd place finishes.'
-datePublished: '2016-04-09T07:17:51.680Z'
-dateModified: '2016-04-09T07:17:31.700Z'
+datePublished: '2016-04-09T07:31:36.779Z'
+dateModified: '2016-04-09T07:18:01.224Z'
 title: 3rd place at 2014 Queensland Supercross
 author: []
+sourcePath: _posts/2016-04-09-3rd-place-at-2014-queensland-supercross.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-3rd-place-at-2014-queensland-supercross.md
-published: true
 url: 3rd-place-at-2014-queensland-supercross/index.html
 _type: Article
 
