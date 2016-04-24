@@ -1,6 +1,6 @@
 name: Samuel Noonan
 favicon: null
-layout_spectrum: 0.7683936315588653
+layout_spectrum: 0.2473
 typography_spectrum: 0.2508812453597784
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0
   lightness: 0
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
